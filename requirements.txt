@@ -1,4 +1,6 @@
+--extra-index-url https://pytorch.org
+torch==2.2.1+cpu
+torchvision==0.17.1+cpu
 streamlit
 sentence-transformers
-torch--cpu
 scikit-learn
